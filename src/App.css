@@ -1,0 +1,27 @@
+.logo {
+  height: 32px;
+  background: #333;
+  border-radius: 6px;
+  margin: 16px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+.marginR{
+  margin-right: 20px;
+  position: relative;
+}
+.flexbox{
+  display: flex;
+  display: -webkit-flex;
+  justify-content: flex-end;
+}
+.dian{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #ffc107;
+  position: absolute;
+  right: -10px;
+  top: 13px;
+}
